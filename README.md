@@ -13,7 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevandraNabana20](https://github.com/DevandraNabana20)
 
-- 📫 How to reach me **yumandaevan@gmail.com**
 
 - ⚡ Fun fact **Always smile 😊**
 
