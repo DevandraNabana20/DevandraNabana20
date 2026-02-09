@@ -1,22 +1,16 @@
-<h1 align="center">Hi there, I'm Devandra Nabana 👋</h1>
+<h1 align="center">Hi there, I'm Devandra Nabana Yumanda 👋</h1>
 <h3 align="center">Fresh Graduate IT | Aspiring QA Engineer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM0ZWYzNmE2ODFjNDY5ZWRjYjQ5M2E2YjNjYjQ5M2E2YjNjYjQ5MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L8K62iTDkzGX6/giphy.gif" alt="Bug Hunting" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM0ZWYzNmE2ODFjNDY5ZWRjYjQ5M2E2YjNjYjQ5M2E2YjNjYjQ5MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L8K62iTDkzGX6/giphy.gif" alt="Bug Hunting" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devandranabana20&theme=flat&no-frame=true&margin-w=15" alt="devandranabana20" />
+  <a href="https://linkedin.com/in/devandr" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/devan_drana" target="blank">
-    <img src="https://img.shields.io/twitter/follow/devan_drana?logo=twitter&style=for-the-badge&label=Follow%20Me" alt="devan_drana" />
-  </a>
-  <a href="https://linkedin.com/in/devandranabana" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  <a href="https://instagram.com/de_vandr" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
 </p>
 
@@ -24,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Bachelor of Information and Communication Technology (B.ICT)** graduate based in **Tangerang, Indonesia**. 
+I am a **Bachelor of Information and Communication Technology with Honours (B.ICT (Hons))** graduate based in **Tangerang, Indonesia**. 
 
 Currently, I am pivoting my career path to become a **Quality Assurance (QA) Engineer**. I have a strong passion for ensuring software quality, hunting bugs, and optimizing user experiences. My keen eye for detail (yes, I notice every pixel!) makes me love the process of breaking things just to fix them better.
 
@@ -37,36 +31,67 @@ Currently, I am pivoting my career path to become a **Quality Assurance (QA) Eng
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a>
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-icon.svg" alt="jmeter" width="40" height="40"/> </a>
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+**Quality Assurance (QA) & Automation Testing**
+<br>
+<img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/-Appium-41c4ff?style=for-the-badge&logo=appium&logoColor=white" />
+<img src="https://img.shields.io/badge/-Katalon-36C5F0?style=for-the-badge&logo=katalon&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/-Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
 
+**Test Management & CI/CD**
+<br>
+<img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+<img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+**Programming & Database for QA**
+<br>
+<img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+**Web Development Background (Frameworks & Libraries)**
+<br>
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/asp.net-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/JSP-Java%20Server%20Pages-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+
+**Tools & Database**
+<br>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+<br>
 <br>
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devandranabana20&show_icons=true&locale=en&theme=radical&hide_border=true" alt="devandranabana20" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devandranabana20&theme=radical&hide_border=true" alt="devandranabana20" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevandraNabana20&theme=transparent&hide_border=true&ring=0078d7&fire=0078d7&currStreakLabel=0078d7" height="180" alt="streak graph"  />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devandranabana20&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="devandranabana20" />
+  
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devandranabana20&label=Profile%20views&color=0e75b6&style=flat" alt="devandranabana20" />
+  <img src="https://komarev.com/ghpvc/?username=DevandraNabana20&label=Profile%20views&color=0e75b6&style=flat" alt="devandranabana20" />
 </p>
